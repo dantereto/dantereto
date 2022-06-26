@@ -4,4 +4,4 @@ Hello, my name is Daniel Escobar and I am a software Engineer, since I was littl
 
 *<a href="https://www.linkedin.com/in/daniel-felipe-escobar-chavez-7823881b6/">Linkedin</a>
 
-, blogs that I have published on that page
+blogs that I have published on that page
